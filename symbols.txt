@@ -1,0 +1,4 @@
+AAPL
+FB
+GOOGL
+MSFT
